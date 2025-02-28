@@ -1,1 +1,1 @@
-# Homework-on-Bass-Model
+# Bass-Model
