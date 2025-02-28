@@ -14,3 +14,5 @@ The main goal of this project is to:
 1.Clone this repository.
 2.Open and run HW_Bass Model.rmd in R or RStudio.
 3.Ensure the necessary libraries (ggplot2, nls, etc.) are installed before running the code.
+
+You can find the PDF output of the code together with the report.
