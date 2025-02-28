@@ -9,7 +9,7 @@ The main goal of this project is to:
 2.Use these estimated parameters to make predictions about the adoption of the AI Dating Assistant (Rizz).
 3.Submit a detailed report outlining the methodology, results, and analysis.
 
-###How to Run
+### How to Run
 
 1.Clone this repository.
 2.Open and run HW_Bass Model.rmd in R or RStudio.
